@@ -118,4 +118,6 @@ Uses `paintComponent(Graphics g)` to draw the background, player, pipes, and “
 - Used by `Logic` to update position and score
 
 ## 📸 Documentation
+https://github.com/user-attachments/assets/531be0c6-53de-40a0-a0be-6ddfe2228a8b
+
 
