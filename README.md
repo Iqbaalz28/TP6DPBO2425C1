@@ -1,4 +1,4 @@
-# TP2DPBO2425C1
+# TP6DPBO2425C1
 A simple Java Swing implementation of the classic Flappy Bird game. This project demonstrates object-oriented programming principles such as encapsulation, event handling, and graphical rendering using JPanel and Timer
 
 ## 🙏 Agreement
